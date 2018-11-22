@@ -15,19 +15,19 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="havoc_settings_title">Havoc Settings</string>
+    <string name="havoc_settings_title">Havoc 设置</string>
 
     <!-- Categories -->
-    <string name="about_title">About</string>
-    <string name="animations_title">Animations</string>
-    <string name="buttons_title">Buttons</string>
-    <string name="display_title">Screen</string>
-    <string name="gestures_title">Gestures</string>
-    <string name="ime_title">IME Settings</string>
-    <string name="interface_title">Interface</string>
-    <string name="lockscreen_title">Lock Screen</string>
-    <string name="misc_title">Miscellaneous</string>
-    <string name="navigation_title">Navigation Bar</string>
+    <string name="about_title">关于</string>
+    <string name="animations_title">动画</string>
+    <string name="buttons_title">按键</string>
+    <string name="display_title">显示</string>
+    <string name="gestures_title">手势</string>
+    <string name="ime_title">输入法设置</string>
+    <string name="interface_title">UI设置</string>
+    <string name="lockscreen_title">锁屏</string>
+    <string name="misc_title">杂项</string>
+    <string name="navigation_title">导航栏</string>
     <string name="notifications_title">Notifications</string>
     <string name="panels_title">Panels</string>
     <string name="quicksettings_title">Quick Settings</string>
