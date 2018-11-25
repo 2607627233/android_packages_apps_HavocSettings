@@ -163,24 +163,24 @@
     <string name="face_auto_unlock_summary">人脸解锁直接开屏</string>
     
     <!-- Screen Off animation --> 
-    <string name="screen_off_animation_title">Screen off animation</string> 
+    <string name="screen_off_animation_title">关屏动画</string> 
     <string name="screen_off_animation_summary">%1$s</string> 
-    <string name="screen_off_animation_fade">Simple fade</string> 
-    <string name="screen_off_animation_color">Color fade</string> 
+    <string name="screen_off_animation_fade">简单渐变</string> 
+    <string name="screen_off_animation_color">颜色渐变 </string> 
     <string name="screen_off_animation_crt">CRT</string> 
     <string name="screen_off_animation_scale">Scale</string> 
    
     <!-- Force expanded notifications -->
-    <string name="force_expanded_notifications_title">Force expanded notifications</string>
-    <string name="force_expanded_notifications_summary">Force apps that support expanded notifications</string>
+    <string name="force_expanded_notifications_title">强制展开消息</string>
+    <string name="force_expanded_notifications_summary">强制APP展开消息</string>
 
     <!-- Toast Animation -->
-    <string name="toast_animation_title">Toast animation</string>
-    <string name="toast_none_animation">None</string>
-    <string name="toast_default_animation">Default</string>
-    <string name="toast_fade_animation">Fade</string>
-    <string name="toast_SlideRight_animation">Slide right</string>
-    <string name="toast_SlideLeft_animation">Slide left</string>
+    <string name="toast_animation_title">Toast 动画</string>
+    <string name="toast_none_animation">无</string>
+    <string name="toast_default_animation">默认</string>
+    <string name="toast_fade_animation">淡入</string>
+    <string name="toast_SlideRight_animation">向右滑动</string>
+    <string name="toast_SlideLeft_animation">向左滑动</string>
     <string name="toast_Xylon_animation">Xylon</string>
     <string name="toast_Toko_animation">Toko</string>
     <string name="toast_Tn_animation">Tn</string>
@@ -189,44 +189,44 @@
     <string name="toast_GrowFade_animation">Grow fade</string>
     <string name="toast_GrowFadeCenter_animation">Grow fade center</string>
     <string name="toast_GrowFadeBottom_animation">Grow fade bottom</string>
-    <string name="toast_Translucent_animation">Translucent</string>
-    <string name="toast_SlideLeftRight_animation">Slide left to right</string>
-    <string name="toast_SlideRightLeft_animation">Slide right to left</string>
-    <string name="toast_animation_test">This is test for selected toast animation</string>
+    <string name="toast_Translucent_animation">半透明</string>
+    <string name="toast_SlideLeftRight_animation">左向右滑动</string>
+    <string name="toast_SlideRightLeft_animation">右向左滑动</string>
+    <string name="toast_animation_test">这是一条测试消息</string>
     <string name="toast">Toast</string>
 
         <!-- Option to enable/disable scrolling cache -->
-    <string name="pref_scrollingcache_title">Scrolling cache</string>
-    <string name="pref_scrollingcache_summary">Scrolling cache may improve scrolling performance at the cost of memory</string>
-    <string name="pref_scrollingcache_force_enable">Force enable</string>
-    <string name="pref_scrollingcache_default_enable">Default enable</string>
-    <string name="pref_scrollingcache_default_disable">Default disable</string>
-    <string name="pref_scrollingcache_force_disable">Force disable</string>
+    <string name="pref_scrollingcache_title">滚动缓存</string>
+    <string name="pref_scrollingcache_summary">滚动缓存可以以内存为代价提高性能</string>
+    <string name="pref_scrollingcache_force_enable">强制开启</string>
+    <string name="pref_scrollingcache_default_enable">默认开启</string>
+    <string name="pref_scrollingcache_default_disable">默认关闭</string>
+    <string name="pref_scrollingcache_force_disable">强制关闭</string>
     
      <!-- Gesture Anywhere --> 
-    <string name="gesture_anywhere_title">Gesture Anywhere</string> 
-    <string name="gesture_anywhere_enabled_title">Gesture Anywhere</string> 
-    <string name="gesture_anywhere_enabled_summary">Enable the Gesture Anywhere feature</string> 
-    <string name="gesture_anywhere_position_title">Location</string> 
+    <string name="gesture_anywhere_title">全局手势</string> 
+    <string name="gesture_anywhere_enabled_title">全局手势</string> 
+    <string name="gesture_anywhere_enabled_summary">开启</string> 
+    <string name="gesture_anywhere_position_title">位置</string> 
     <string name="gesture_anywhere_position_summary">%1$s</string> 
-    <string name="gesture_anywhere_position_left">Left edge</string> 
-    <string name="gesture_anywhere_position_right">Right edge</string> 
-    <string name="gesture_anywhere_gestures_title">Gestures</string> 
-    <string name="gesture_anywhere_gestures_summary">Add, remove, and edit gestures</string> 
-    <string name="gesture_anywhere_summary">Draw your gestures to launch preferred activity</string>
+    <string name="gesture_anywhere_position_left">左边缘</string> 
+    <string name="gesture_anywhere_position_right">右边缘</string> 
+    <string name="gesture_anywhere_gestures_title">手势</string> 
+    <string name="gesture_anywhere_gestures_summary">添加 移除 和编辑手势</string> 
+    <string name="gesture_anywhere_summary">画出手势以启动首选活动</string>
     
     <!-- Label, button used to add a gesture --> 
-    <string name="ga_button_add">Add gesture</string> 
+    <string name="ga_button_add">添加手势</string> 
     <!-- Label, button used to reload all gestures --> 
-    <string name="ga_button_reload">Reload</string> 
+    <string name="ga_button_reload">重载</string> 
     <!-- Label, button used to cancel the operation of adding a gesture --> 
-    <string name="ga_button_discard">Discard</string> 
+    <string name="ga_button_discard">取消</string> 
     <!-- Label, button used to save a gesture newly created --> 
-    <string name="ga_button_done">Done</string> 
+    <string name="ga_button_done">无</string> 
     <!-- Label, prompt asking the user to enter the name of the gesture --> 
-    <string name="ga_prompt_gesture_name">Name</string> 
+    <string name="ga_prompt_gesture_name">名称</string> 
     <!-- Error message, informs the user he needs to enter a name before saving a gesture --> 
-    <string name="ga_error_missing_name">You must enter a name</string> 
+    <string name="ga_error_missing_name">你必须输入一个名称</string> 
     <!-- success message, tells the user where the gesture was saved --> 
     <string name="ga_save_success">Gesture saved in %s</string> 
     <!-- Buttons in Rename gesture dialog box --> 
